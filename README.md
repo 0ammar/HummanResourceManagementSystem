@@ -62,4 +62,4 @@ The application follows best practices like **Agile methodology**, **SOLID princ
 
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/0ammar/HummanResourceManagementSystem.git
